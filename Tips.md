@@ -1,5 +1,5 @@
-Manager+
-=========
+Tips To Getting Staff
+=====================
 
 |Tips|
 |:-----------:|
