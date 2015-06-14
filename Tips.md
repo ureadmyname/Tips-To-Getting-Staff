@@ -2,7 +2,7 @@ Tips To Getting Staff
 =====================
 
 |Tips|
-|:-----------:|
-|Be Active|
-|Be Mature|
-|Follow The Rules|
+|:------------:|:------------:|
+|1.|Be Active|
+|2.|Be Mature|
+|3.|Follow The Rules|
